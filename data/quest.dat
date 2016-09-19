@@ -1,0 +1,16 @@
+quest{
+  solarus_version = "1.5",
+  write_dir = "mystery-tama-village",
+  title = "The Mystery of Tama Village",
+  short_description = "A short solarus quest centered around the haunted village named Tama.",
+  long_description = [[
+]],
+  author = "",
+  quest_version = "0.1",
+  release_date = "",
+  website = "",
+  normal_quest_size = "320x240",
+  min_quest_size = "320x240",
+  max_quest_size = "320x240",
+}
+
